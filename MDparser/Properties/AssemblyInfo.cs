@@ -7,11 +7,11 @@ using System.Security;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("MDparser")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Parses Markdown Code and turns it into PowerPoint Slides")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("CodeRebelsAlliance")]
 [assembly: AssemblyProduct("MDparser")]
-[assembly: AssemblyCopyright("Copyright ©  2025")]
+[assembly: AssemblyCopyright("Copyright © leMineGaming 2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
