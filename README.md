@@ -17,7 +17,7 @@ This PowerPoint add-in allows you to quickly convert Markdown-formatted text int
   - `**bold**`
   - `*italic*`
   - `_underline_` or `__underline__`
-  - `==highlight==` (yellow background)
+  - `==highlight==`
   - `~~strikethrough~~`
  
 ## Slide Creation Rules
