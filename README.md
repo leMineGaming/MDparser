@@ -2,8 +2,6 @@
 ![test](https://badgen.net/badge/status/stable/green?icon=github)
 ![test2](https://badgen.net/badge/latest/v1.0/blue?icon=version)
 
-![avast](https://i.ibb.co/pr2hn5z/Avast-Safe2.png) *
-
 This PowerPoint add-in allows you to quickly convert Markdown-formatted text into a series of styled slides. It supports headings, bullet points, ordered lists, and inline formatting like **bold**, *italic*, _underline_, ==highlight==, and ~~strikethrough~~.
 
 ## Features
