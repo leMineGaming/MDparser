@@ -31,3 +31,6 @@ This PowerPoint add-in allows you to quickly convert Markdown-formatted text int
 
 - `==highlight==` → Highlights text in red.
 - `~~strikethrough~~` → Applies strikethrough.
+
+Icons in the app are made by Icons8
+icons8.com
