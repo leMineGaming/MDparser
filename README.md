@@ -3,3 +3,31 @@
 ![test2](https://badgen.net/badge/latest/v1.0/blue?icon=version)
 
 ![avast](https://i.ibb.co/pr2hn5z/Avast-Safe2.png) *
+
+This PowerPoint add-in allows you to quickly convert Markdown-formatted text into a series of styled slides. It supports headings, bullet points, ordered lists, and inline formatting like **bold**, *italic*, _underline_, ==highlight==, and ~~strikethrough~~.
+
+## Features
+
+- **Insert Markdown as Slides:** Paste your Markdown and instantly generate slides.
+- **Headings to Slides:**
+  - `# Heading` creates a new main slide (title or content, context-aware).
+  - `## Subheading` creates a subtitle and splits content into separate slides.
+- **Lists:** Unordered (`- item`) and ordered (`1. item`) lists are supported, including indentation for sub-lists.
+- **Inline Formatting:**
+  - `**bold**`
+  - `*italic*`
+  - `_underline_` or `__underline__`
+  - `==highlight==` (yellow background)
+  - `~~strikethrough~~`
+ 
+## Slide Creation Rules
+
+- If a `#` heading is followed by another `#` heading, or by a `##` heading with no content before the next `#`, a title slide is created.
+- If a `#` heading is followed by `##` subtitles with content, each `##` section creates its own content slide (with the main `#` as the title and the `##` as the subtitle).
+- Subtitles on content slides are styled (bold, larger font, no bullet).
+- Only list items beginning with `- ` or `1. ` receive bullets/numbers.
+
+## Custom Formatting
+
+- `==highlight==` → Highlights text in yellow.
+- `~~strikethrough~~` → Applies strikethrough.
