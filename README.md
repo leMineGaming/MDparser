@@ -29,5 +29,5 @@ This PowerPoint add-in allows you to quickly convert Markdown-formatted text int
 
 ## Custom Formatting
 
-- `==highlight==` → Highlights text in yellow.
+- `==highlight==` → Highlights text in red.
 - `~~strikethrough~~` → Applies strikethrough.
