@@ -1,4 +1,4 @@
-# MDparser
+# PWPNT MDparser
 ![test](https://badgen.net/badge/status/stable/green?icon=github)
 ![test2](https://badgen.net/badge/latest/v1.1/blue?icon=version)
 
